@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hello 😊
+My name is Felipe Augusto, I'm from Brazil . Currently (2021) I am a Computer Science student at FAM. My goal is to become a great programmer. My favorite language that I'm focusing on learning is Java
 
-<!--
-**ALCM-bit/ALCM-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### knowledges 🧠
+- Java intermediary
+- Basic SQL
+- Basic HTML5
+- Basic CSS3
+- Intermediary english 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Social medias 👇🏼
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-augusto-2169441a5/)](https://www.linkedin.com/in/felipe-augusto-2169441a5/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/felipea.l.c.magalhaes/)](https://www.instagram.com/felipea.l.c.magalhaes/)

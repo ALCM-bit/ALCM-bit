@@ -1,5 +1,5 @@
 # Hello 😊
-My name is Felipe Augusto, I'm from Brazil . Currently (2021) I am a Computer Science student at FAM. My goal is to become a great programmer. My favorite language that I'm focusing on learning is C#
+My name is Felipe Augusto, I'm from Brazil . Currently (2023) I am a Computer Science student at FAM. My goal is to become a great programmer. My favorite language that I'm focusing on learning is C#
 
 ### knowledges 🧠
 - C# intermediary

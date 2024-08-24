@@ -56,6 +56,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/ALCM-bit/ALCM-bit/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
+![snake gif](https://github.com/ALCM-bit/ALCM-bit/blob/output/github-contribution-grid-snake.gif)
 
 ###

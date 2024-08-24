@@ -12,7 +12,7 @@
 <img align="right" height="150" src="https://github.com/ALCM-bit/ALCM-bit/blob/main/profilepicture.png"  />
 
 ###
-
+<h3 align="left">👨🏼‍💻 Tecnologies</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
@@ -38,7 +38,7 @@
 </div>
 
 ###
-
+<h3>🌐 Social media</h3>
 <div align="left">
   <a href="https://www.instagram.com/felipea.l.c.magalhaes/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
@@ -53,7 +53,6 @@
 
 
 ###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ALCM-bit/ALCM-bit/output/snake.svg" alt="Snake animation" />
